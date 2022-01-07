@@ -21,3 +21,7 @@ model1
 images.*
 .idea
 .vscode
+**/train/*
+.idea/
+__pycache__
+.ipynb_checkpoints/*
